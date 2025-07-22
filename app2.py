@@ -1,6 +1,3 @@
-# streamlit_app.py
-# Enhanced Interactive Receipt Processing Frontend with Light Theme
-# Run with: streamlit run streamlit_app.py
 
 import streamlit as st
 import pandas as pd
