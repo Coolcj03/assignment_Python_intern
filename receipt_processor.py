@@ -1,7 +1,4 @@
 # receipt_processor.py
-# My receipt processing system - handles uploaded receipts and extracts data
-# Built this to track my expenses automatically
-
 import os
 import re
 import hashlib
