@@ -1,0 +1,37 @@
+STATE FARM INSURANCE
+Like a Good Neighbor, State Farm is There
+Agent: John Smith (555) 123-4567
+
+POLICY HOLDER: Jane Doe
+POLICY NUMBER: SF-123456789
+BILLING ADDRESS: 123 Main Street, Anytown, USA 12345
+
+POLICY PERIOD: March 1, 2024 - September 1, 2024
+BILL DATE: February 15, 2024
+DUE DATE: February 29, 2024
+
+COVERAGE SUMMARY:
+2022 Honda Accord (Vin: 1HGCV1F3XMA123456)
+- Liability Coverage: $300,000 / $500,000
+- Comprehensive: $500 Deductible
+- Collision: $1,000 Deductible
+- Uninsured Motorist: $100,000 / $300,000
+
+2019 Toyota Camry (Vin: 4T1B11HK5KU123456)
+- Liability Coverage: $300,000 / $500,000  
+- Comprehensive: $500 Deductible
+- Collision: $1,000 Deductible
+
+PREMIUM BREAKDOWN:
+Vehicle 1 Premium: $445.50
+Vehicle 2 Premium: $398.75
+Multi-Car Discount: -$67.25
+Good Driver Discount: -$89.50
+Paperless Billing Discount: -$12.50
+
+TOTAL 6-MONTH PREMIUM: $675.00
+
+VENDOR: State Farm
+AMOUNT: $675.00
+DATE: 2024-02-15
+CATEGORY: Insurance

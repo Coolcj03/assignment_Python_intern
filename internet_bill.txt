@@ -1,0 +1,30 @@
+COMCAST XFINITY
+Bringing You Closer to What You Love
+Customer Service: 1-800-XFINITY
+
+ACCOUNT NUMBER: COM-147258369
+SERVICE ADDRESS: 123 Main Street, Anytown, USA 12345
+
+STATEMENT PERIOD: February 10 - March 9, 2024
+STATEMENT DATE: March 10, 2024
+DUE DATE: April 5, 2024
+
+PREVIOUS BALANCE: $89.99
+PAYMENT RECEIVED 02/28/24: -$89.99
+BALANCE FORWARD: $0.00
+
+CURRENT MONTHLY CHARGES:
+Xfinity Internet (200 Mbps): $79.99
+Xfinity TV Select: $89.99
+xFi Gateway Rental: $15.00
+Broadcast TV Fee: $21.30
+Regional Sports Fee: $12.95
+Taxes, Fees & Other Charges: $24.67
+
+TOTAL CURRENT CHARGES: $243.90
+TOTAL AMOUNT DUE: $243.90
+
+VENDOR: Comcast
+AMOUNT: $243.90
+DATE: 2024-03-10
+CATEGORY: Communications

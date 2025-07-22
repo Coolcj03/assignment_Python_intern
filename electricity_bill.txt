@@ -1,0 +1,31 @@
+ELECTRIC COMPANY OF AMERICA
+Customer Service: 1-800-ELECTRIC
+www.electricamerica.com
+
+ACCOUNT NUMBER: 123456789
+SERVICE ADDRESS: 123 Main Street, Anytown, USA 12345
+BILLING DATE: February 1, 2024
+DUE DATE: February 28, 2024
+
+BILLING PERIOD: January 1 - January 31, 2024
+
+PREVIOUS BALANCE: $0.00
+PAYMENTS RECEIVED: $0.00
+
+CURRENT ELECTRIC CHARGES:
+Electricity Usage: 850 kWh @ $0.12/kWh = $102.00
+Basic Service Charge: $12.50
+Environmental Recovery Fee: $3.25
+State Tax (6%): $7.07
+
+TOTAL AMOUNT DUE: $124.82
+
+PAYMENT METHODS:
+- Online: www.electricamerica.com
+- Phone: 1-800-PAY-BILL
+- Mail: PO Box 12345, Anytown, USA 12345
+
+VENDOR: Electric Company of America
+AMOUNT: $124.82
+DATE: 2024-02-01
+CATEGORY: Utilities

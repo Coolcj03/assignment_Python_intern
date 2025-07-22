@@ -1,0 +1,41 @@
+DIRECTV
+Entertainment That Inspires
+Customer Service: 1-800-DIRECTV
+
+ACCOUNT: DTV-369258147
+SERVICE ADDRESS: 123 Main Street
+                Anytown, USA 12345
+
+BILL PERIOD: February 25 - March 24, 2024
+BILL DATE: March 25, 2024
+DUE DATE: April 15, 2024
+
+PREVIOUS BALANCE: $0.00
+PAYMENTS/CREDITS: $0.00
+
+MONTHLY SERVICES:
+CHOICE Package: $84.99
+HD Service: $10.00
+DVR Service: $7.00
+Regional Sports Networks: $11.99
+Additional Receiver: $7.00
+
+EQUIPMENT:
+Genie HD DVR Lease: $15.00
+Wireless Mini Genie: $7.00
+
+FEES & TAXES:
+Broadcast Fee: $12.00
+Regional Sports Fee: $13.90
+FCC Regulatory Fee: $0.24
+State/Local Taxes: $8.95
+
+TOTAL AMOUNT DUE: $178.07
+
+AUTOPAY DISCOUNT AVAILABLE: Save $10/month
+Sign up at directv.com/autopay
+
+VENDOR: DirecTV
+AMOUNT: $178.07
+DATE: 2024-03-25
+CATEGORY: Entertainment

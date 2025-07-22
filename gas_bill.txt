@@ -1,0 +1,39 @@
+NATIONAL GRID
+Natural Gas Services
+Customer Care: 1-800-NATIONAL
+
+ACCOUNT NUMBER: NG-789123456
+SERVICE ADDRESS: 123 Main Street
+                Anytown, USA 12345
+
+BILL DATE: February 20, 2024
+DUE DATE: March 20, 2024
+SERVICE PERIOD: January 20 - February 19, 2024
+
+PREVIOUS BALANCE: $0.00
+PAYMENTS/CREDITS: $0.00
+
+GAS USAGE:
+Current Meter Reading: 8,456 CCF
+Previous Meter Reading: 8,411 CCF
+Usage This Period: 45 CCF (Therms)
+
+SUPPLY CHARGES:
+Gas Supply (45 therms @ $1.15): $51.75
+Basic Service Charge: $18.50
+
+DELIVERY CHARGES:
+Distribution Service: $23.75
+Transportation: $12.40
+System Benefits: $2.85
+
+TAXES AND FEES:
+State Gross Receipts Tax: $4.50
+Local Tax: $2.15
+
+TOTAL AMOUNT DUE: $115.90
+
+VENDOR: National Grid
+AMOUNT: $115.90
+DATE: 2024-02-20
+CATEGORY: Utilities

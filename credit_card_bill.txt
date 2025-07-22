@@ -1,0 +1,40 @@
+CHASE SAPPHIRE PREFERRED
+Member Since: 2019
+
+ACCOUNT NUMBER: ****1234
+STATEMENT CLOSING DATE: February 29, 2024
+PAYMENT DUE DATE: March 25, 2024
+
+ACCOUNT SUMMARY:
+Previous Balance: $1,247.83
+Payments: -$1,247.83
+Other Credits: -$25.00
+Purchases: +$2,156.94
+Cash Advances: $0.00
+Balance Transfers: $0.00
+Fees Charged: $0.00
+Interest Charged: $0.00
+
+NEW BALANCE: $2,156.94
+MINIMUM PAYMENT DUE: $65.00
+
+PAYMENT INFORMATION:
+Credit Limit: $15,000.00
+Available Credit: $12,843.06
+Cash Advance Limit: $7,500.00
+
+RECENT TRANSACTIONS (Sample):
+02/02 Amazon Purchase: $89.99
+02/05 Shell Gas Station: $45.67
+02/08 Starbucks: $12.45
+02/12 Target: $156.78
+02/15 Restaurant: $89.34
+02/18 Grocery Store: $234.56
+02/22 Online Shopping: $198.99
+02/25 Pharmacy: $34.67
+02/28 Uber: $23.45
+
+VENDOR: Chase Bank
+AMOUNT: $2156.94
+DATE: 2024-02-29
+CATEGORY: Credit Card

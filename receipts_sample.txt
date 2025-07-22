@@ -1,0 +1,75 @@
+RECEIPT_001
+Walmart Supercenter
+123 Main Street, Anytown, USA 12345
+Date: 2024-01-15
+Time: 14:32:45
+Items:
+- Milk (1 gallon) - $3.99
+- Bread (1 loaf) - $2.49
+- Eggs (1 dozen) - $4.29
+- Bananas (2 lbs) - $1.98
+Subtotal: $12.75
+Tax: $0.89
+Total: $13.64
+Payment: Credit Card
+Category: Groceries
+---
+
+RECEIPT_002
+Shell Gas Station
+456 Oak Avenue, Anytown, USA 12345
+Date: 2024-01-18
+Time: 09:15:22
+Items:
+- Regular Gasoline (12.5 gallons) - $39.75
+Total: $39.75
+Payment: Debit Card
+Category: Transportation
+---
+
+RECEIPT_003
+Amazon Purchase
+Online Order #112-3456789-1234567
+Date: 2024-01-22
+Time: 16:45:12
+Items:
+- Wireless Headphones - $89.99
+- Phone Case - $15.99
+- USB Cable - $12.99
+Subtotal: $118.97
+Tax: $9.52
+Total: $128.49
+Payment: Credit Card
+Category: Electronics
+---
+
+RECEIPT_004
+Starbucks Coffee
+789 Pine Street, Anytown, USA 12345
+Date: 2024-01-25
+Time: 07:30:15
+Items:
+- Grande Latte - $5.45
+- Blueberry Muffin - $3.25
+Subtotal: $8.70
+Tax: $0.61
+Total: $9.31
+Payment: Mobile App
+Category: Food & Dining
+---
+
+RECEIPT_005
+Target Store
+321 Elm Road, Anytown, USA 12345
+Date: 2024-02-02
+Time: 11:20:33
+Items:
+- Laundry Detergent - $8.99
+- Paper Towels (6 pack) - $12.49
+- Toothpaste - $4.99
+- Shampoo - $7.99
+Subtotal: $34.46
+Tax: $2.76
+Total: $37.22
+Payment: Credit Card
+Category: Household

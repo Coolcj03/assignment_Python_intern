@@ -1,0 +1,44 @@
+ANYTOWN MEDICAL CENTER
+Excellence in Healthcare Since 1985
+Patient Services: (555) 123-CARE
+
+PATIENT: Jane Doe
+PATIENT ID: AMC-789456123
+DATE OF SERVICE: February 14, 2024
+STATEMENT DATE: March 1, 2024
+
+SERVICE DETAILS:
+Provider: Dr. Sarah Johnson, MD
+Department: Internal Medicine
+Procedure: Annual Physical Examination
+
+CHARGES:
+Office Visit - Comprehensive: $285.00
+Laboratory Work (Blood Panel): $175.00
+EKG Test: $95.00
+Vaccination (Flu Shot): $45.00
+
+SUBTOTAL: $600.00
+
+INSURANCE INFORMATION:
+Primary Insurance: Blue Cross Blue Shield
+Policy Number: BCBS-123456789
+Claim Number: BC2024-789456
+
+INSURANCE ADJUSTMENTS:
+Insurance Payment: -$480.00
+Contractual Adjustment: -$72.00
+Patient Responsibility: $48.00
+
+BALANCE DUE: $48.00
+DUE DATE: March 31, 2024
+
+PAYMENT OPTIONS:
+Online: www.anytownmedical.com/pay
+Phone: (555) 123-PAY1
+Mail: 456 Healthcare Blvd, Anytown, USA 12345
+
+VENDOR: Anytown Medical Center
+AMOUNT: $48.00
+DATE: 2024-03-01
+CATEGORY: Healthcare

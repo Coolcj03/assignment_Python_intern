@@ -1,0 +1,32 @@
+CITY OF ANYTOWN - WATER DEPARTMENT
+Municipal Services Division
+Phone: (555) 123-WATER
+
+ACCOUNT: W-456789123
+SERVICE ADDRESS: 123 Main Street
+                Anytown, USA 12345
+
+STATEMENT DATE: February 15, 2024
+DUE DATE: March 15, 2024
+BILLING PERIOD: December 15, 2023 - February 15, 2024
+
+WATER USAGE SUMMARY:
+Current Reading: 1,247,850 gallons
+Previous Reading: 1,244,350 gallons
+Usage This Period: 3,500 gallons
+
+CHARGES:
+Water Service (3,500 gallons): $42.50
+Sewer Service: $38.75
+Storm Water Management Fee: $8.25
+Base Service Fee: $15.00
+
+SUBTOTAL: $104.50
+City Tax (3.5%): $3.66
+
+TOTAL AMOUNT DUE: $108.16
+
+VENDOR: City Water Department
+AMOUNT: $108.16
+DATE: 2024-02-15
+CATEGORY: Utilities

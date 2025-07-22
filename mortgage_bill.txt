@@ -1,0 +1,35 @@
+WELLS FARGO HOME MORTGAGE
+1-800-TO-WELLS | wellsfargo.com/mortgage
+
+LOAN NUMBER: WF-555-8901234
+BORROWER: John & Jane Doe
+PROPERTY ADDRESS: 123 Main Street, Anytown, USA 12345
+
+STATEMENT DATE: March 1, 2024
+DUE DATE: April 1, 2024
+BILLING PERIOD: March 2024
+
+PAYMENT BREAKDOWN:
+Principal & Interest: $1,847.65
+Escrow for Property Tax: $445.83
+Escrow for Insurance: $125.67
+PMI (Private Mortgage Insurance): $198.50
+
+TOTAL MONTHLY PAYMENT: $2,617.65
+
+LOAN INFORMATION:
+Original Loan Amount: $345,000.00
+Current Principal Balance: $327,845.92
+Interest Rate: 4.25% Fixed
+Loan Term: 30 Years
+Payment Number: 25 of 360
+
+ESCROW ANALYSIS:
+Escrow Balance: $1,247.83
+Annual Property Tax: $5,350.00
+Annual Insurance: $1,508.00
+
+VENDOR: Wells Fargo
+AMOUNT: $2617.65
+DATE: 2024-03-01
+CATEGORY: Housing
